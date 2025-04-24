@@ -4,3 +4,4 @@ qiskit_ibm_runtime
 pylatexenc
 qiskit[visualization]
 qiskit_aer
+numpy
